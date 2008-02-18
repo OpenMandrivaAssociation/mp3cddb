@@ -2,7 +2,7 @@
 %define version 1.6
 %define release %mkrel 3
 
-Summary:	Mp3cddb is a console MP3 renaming program
+Summary:	Console MP3 renaming program
 Name:		%{name}
 Version: 	%{version}
 Release: 	%{release}

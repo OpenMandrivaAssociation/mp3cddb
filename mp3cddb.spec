@@ -1,6 +1,6 @@
 %define name mp3cddb
 %define version 1.6
-%define release %mkrel 8
+%define release 9
 
 Summary:	Console MP3 renaming program
 Name:		%{name}

@@ -9,7 +9,7 @@ Release: 	%{release}
 Source0: 	%{name}-%{version}.tar.bz2
 License: 	GPL
 Group: 		File tools
-Url: 		http://rufus.hackish.org/wiki/MP3cddb
+Url: 		https://rufus.hackish.org/wiki/MP3cddb
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:	perl-Term-ReadLine-Gnu
 
